@@ -1,0 +1,89 @@
+{
+    "hello":{
+        "pt":"Olá",
+        "en":"Hello"
+    },
+
+    "about":{
+        "pt":"Sobre",
+        "en":"About"
+    },
+
+    "work":{
+        "pt":"Trabalhos",
+        "en":"Work"
+    },
+
+    "skill":{
+        "pt":"Habilidades",
+        "en":"Skills"
+    },
+
+    "contact":{
+        "pt":"Contactos",
+        "en":"Contacts"
+    },
+
+    "myWork":{
+        "pt":"Meus Trabalhos",
+        "en":"My Works"
+    },
+    "yourMessage":{
+        "pt":"Sua Mensagem",
+        "en":"Your Message"
+    },
+
+    "mySkill":{
+        "pt":"Minhas Habilidades",
+        "en":"My Skills"
+    },
+
+    "message":{
+        "pt":"* Mensagem",
+        "en":"* Message"
+    },
+
+    "sendBtn":{
+        "pt":"Enviar",
+        "en":"Send"
+    },
+
+    "contactThrough":{
+        "pt":"Ou Contacta - me através",
+        "en":"Contact -me Through"
+    },
+
+    "who":{
+        "pt":"Eu sou Fernando Raul Ronaldo",
+        "en":"I'm Fernando Raul Ronaldo"
+    },
+    "role":{
+        "pt":"Especialista em Artes",
+        "en":"I'm an Art Specialist"
+    }
+    ,
+    "artProdutor":{
+        "pt":"Produtor de Arte",
+        "en":"Art Productor"
+    }
+    ,
+    "ilustratorAnalogic":{
+        "pt":"Ilustrador Analógico Roteirista",
+        "en":"Analog Ilustrator Screenwritter"
+    }
+    ,
+    "documentar":{
+        "pt":"Documentarista Ilustrado",
+        "en":"Illustrated Documentarist"
+    }
+    ,
+    "visualArtist":{
+        "pt":"Artista Visual",
+        "en":"Visual Artist"
+    }
+    ,
+    "music":{
+        "pt":"Músico",
+        "en":"Musician"
+    }
+}

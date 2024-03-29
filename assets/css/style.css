@@ -16,6 +16,21 @@ header{
   height: 50px;
 }
 
+header nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header nav select{
+  margin-left: 1rem;
+  padding: 0.4rem;
+  background-color: black;
+  color:white;
+  border-radius: 8px;
+}
+
+
 header nav ul{
   display: flex;
   padding: 0 2rem 0 0.5rem;
@@ -82,6 +97,22 @@ color: white;
   padding: 2rem;
   padding-bottom: 5rem;
 }
+.mainHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainHeader h1{
+  padding: 4rem 0 4rem;
+  text-align: center;
+  font-size: 45pt;
+}
+
+.mainHeader img{
+  width: 10%;
+  height: 10%;
+}
 
 .projectsContainer h1,
 .contact h1,
@@ -104,6 +135,7 @@ color: white;
 }
 
 .projects{
+  margin-top: 2rem;
   display: grid;
   grid-template-columns: repeat(4,25fr);
   grid-template-rows: repeat(2,100fr);
@@ -161,6 +193,9 @@ footer {
   color: white;
 }
 
+.formContainer form label{
+color: black;
+}
 .formContainer form input,
 .formContainer form textarea
 {
