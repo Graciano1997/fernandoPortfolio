@@ -15,7 +15,7 @@
     },
 
     "skill":{
-        "pt":"Habilidades",
+        "pt":"Skills",
         "en":"Skills"
     },
 
@@ -25,16 +25,16 @@
     },
 
     "myWork":{
-        "pt":"Meus Trabalhos",
-        "en":"My Works"
+        "pt":"Trabalhos",
+        "en":"Works"
     },
     "yourMessage":{
-        "pt":"Sua Mensagem",
+        "pt":"Mensagem",
         "en":"Your Message"
     },
 
     "mySkill":{
-        "pt":"Minhas Habilidades",
+        "pt":"Habilidades",
         "en":"My Skills"
     },
 
@@ -50,7 +50,7 @@
 
     "contactThrough":{
         "pt":"Ou Contacta - me através",
-        "en":"Contact -me Through"
+        "en":"Or Contact -me Through"
     },
 
     "who":{
@@ -86,4 +86,15 @@
         "pt":"Músico",
         "en":"Musician"
     }
+    ,
+    "footer1":{
+        "pt":"Esta Aplicação foi dessenvolvido por Graciano Henrique the Hosanna",
+        "en":"This App was developed by Graciano Henrique the Hosanna"
+    }
+    ,
+    "footer2":{
+        "pt":"Sobre a Licensa do MIT",
+        "en":"Under MIT License"
+    }
+
 }
